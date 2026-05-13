@@ -1,43 +1,18 @@
-# Hi, I'm Deepshitha 👋  
-### MERN Stack Developer | Disaster & Waste Management Projects
+# Deepshitha P — Full Stack Developer
 
-I’m a Full Stack Developer skilled in **React, Node.js, Express, MongoDB**.  
-I focus on building apps that solve real-world problems like:  
-- 🌪️ Disaster Alert & Management  
-- ♻️ Large Scale Waste Scheduling  
-- 🔍 Lost & Found Systems  
+## About Me
+Pre-final year CSE student at Velammal Engineering College, Chennai.
+Skilled in MERN Stack, React.js, Node.js, REST APIs, and AI/ML API Integration.
 
----
+## Projects
+- AI-Based Trust Intelligence System (React.js, Node.js, OpenAI API, Gemini API)
+- Pick A Waste — Smart Waste Management Platform (MERN Stack)
+- Lost & Found Information System (HTML, CSS, JavaScript, PHP, MySQL)
 
-## 🔥 Skills  
-**Frontend:** React, Vite, HTML, CSS  
-**Backend:** Node.js, Express, PHP  
-**Databases:** MongoDB, MySQL  
-**Languages:** JS, Python, C, C++, Java  
-**Tools:** GitHub, VSCode  
-**AI Tools:** OpenAI API, Gemini API  
+## Skills
+JavaScript, Java, Python, C, C++, React.js, Node.js, Express.js, MongoDB, MySQL, Git, GitHub
 
----
-
-## 🚀 Projects  
-- **Disaster Management System (MERN)**  
-- **Pick A Waste – Waste Pickup Scheduler (MERN)**  
-- **Lost & Found System (PHP + MySQL)**  
-
----
-
-## 💼 Experience  
-- MERN Stack Intern — BICS Global  
-- Android App Intern — ATLANWA  
-
----
-
-## 🎓 Education  
-BE CSE — Velammal Engineering College (CGPA: 8.82)
-
----
-
-## 🔗 Connect  
-**GitHub:** github.com/deepshitha123  
-**LinkedIn:** linkedin.com/in/deepshithaparthasarathy  
-**Email:** deepshithaparthasarathy3@gmail.com  
+## Certifications
+- Programming using Java — Infosys Springboard (Feb 2026)
+- MERN Stack Developer — BICS Global
+- Android App Development — Atlanwa
